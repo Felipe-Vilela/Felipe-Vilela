@@ -10,7 +10,7 @@
 </div><br>
 
 <div style="display: inline_block">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Vilela&show_icons=true&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Vilela&show_icons=true&theme=dark"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Vilela&theme=dracula&hide_border=false&&layout=compact"/>
 </div>
 <hr>
