@@ -16,11 +16,11 @@
 
 ### Tecnologias que eu conheço: 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,git&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,git,js&perline=15)](https://skillicons.dev)
 
 ### Estudando: 
 
-[![My Skills](https://skillicons.dev/icons?i=java,js&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,react&perline=15)](https://skillicons.dev)
 
 
 ### Um pouco sobre mim
