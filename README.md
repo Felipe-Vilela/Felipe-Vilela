@@ -1,14 +1,12 @@
 
-## Hi! My name is Felipe Vilela 👋🏼
-
-<div style="display: inline_block">
+<h1 align="center">Hi! My name is Felipe Vilela 👋🏼</h1>
+<div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Vilela&show_icons=true&theme=gotham"/>
 </div>
-<hr>
 
-### Tecnologias:
+<h2 align="center">Tecnologias</h2>
 
-<br><p style="font-size: 22px;">Front end:</p>
+<p style="font-size: 22px;" align="center">Front end</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +14,7 @@
   </a>
 </p>
 
-<p style="font-size: 22px;">Back end:</p>
+<p style="font-size: 22px;" align="center">Back end</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +22,7 @@
   </a>
 </p>
 
-<p style="font-size: 22px;">Database:</p>
+<p style="font-size: 22px;" align="center">Database</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +30,7 @@
   </a>
 </p>
 
-<p style="font-size: 22px;">Outras:</p>
+<p style="font-size: 22px;" align="center">Outras</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,9 +38,7 @@
   </a>
 </p>
 
-##
-
-<br><br>
+<h2 align="center">Contato</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/felipe-vilela-9832171b1/"> 
         <img src="https://skillicons.dev/icons?i=linkedin" target="_blank">
