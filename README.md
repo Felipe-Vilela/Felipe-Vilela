@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cassandra,postgres,mysql,sqlite,mongodb,oracle&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cassandra,postgres,mysql,sqlite,mongodb&perline=10&theme=dark" />
   </a>
 </p>
 
