@@ -14,11 +14,11 @@
   </a>
 </p>
 
-<p style="font-size: 22px;" align="center">Back end</p>
+<p style="font-size: 22px;" align="center">Back end e Mobile</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clojure,java,kafka,c,python,nodejs,spring&perline=12&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=clojure,java,kafka,c,python,nodejs,spring,kotlin&perline=12&theme=dark" />
   </a>
 </p>
 
