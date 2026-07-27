@@ -59,7 +59,7 @@ public class FelipeVilela {
 ## 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/felipe-vilela-9832171b1">
+  <a href="https://www.linkedin.com/in/felipemvilela">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
