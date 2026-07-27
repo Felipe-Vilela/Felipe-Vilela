@@ -2,8 +2,8 @@
 public class FelipeVilela {
 
     private final String name = "Felipe Vilela";
-    private final int age = 20;
-    private final String role = "Back-end Developer";
+    private final int age = 24;
+    private final String role = "Fullstack Developer";
     private final String location = "São Carlos, SP";
 
 }
